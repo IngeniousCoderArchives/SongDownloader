@@ -1,3 +1,4 @@
+If you liked this, star the repository!
 # Python Song Downloader
 
 This is a simple application used to download multiple songs into .mp3, to the same directory as the code.
